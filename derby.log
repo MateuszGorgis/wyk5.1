@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon Jun 29 08:24:32 CEST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0172-febf-a4c9-00000de54f30 
+on database directory /home/user/REPO/Projekty/studia/PRA/PRA5_GM_PD3138/Database with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/home/user/REPO/Projekty/studia/PRA/PRA5_GM_PD3138/src/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_231-b11
+user.dir=/home/user/REPO/Projekty/studia/PRA/PRA5_GM_PD3138
+os.name=Linux
+os.arch=amd64
+os.version=5.3.0-59-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
